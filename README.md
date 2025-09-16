@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ AI Projects I've Built
+### 🛠️ AI Projects I've Built:
 
 - 🧠 **Sign Language to Text & GIF Translator**  
   Converts textual input to sign language using an LSTM model. Integrated into a real-time app interface.
